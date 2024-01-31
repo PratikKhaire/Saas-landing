@@ -4,3 +4,4 @@ feat(header): improve nav focus styles - 2024-01-26T00:00:00+00:00
 docs(assets): add notes about logo attribution - 2024-01-27T00:00:00+00:00
 fix(a11y): add aria-hidden to decorative icons - 2024-01-29T00:00:00+00:00
 chore(images): standardize image filenames - 2024-01-30T00:00:00+00:00
+refactor(header): extract nav component - 2024-01-31T00:00:00+00:00
