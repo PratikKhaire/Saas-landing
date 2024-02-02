@@ -1,2 +1,3 @@
 chore(ci): add basic lint script to package.json - 2024-01-24T00:00:00+00:00
 fix(css): adjust mobile hero padding - 2024-01-25T00:00:00+00:00
+feat(header): improve nav focus styles - 2024-01-26T00:00:00+00:00
