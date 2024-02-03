@@ -6,3 +6,4 @@ fix(a11y): add aria-hidden to decorative icons - 2024-01-29T00:00:00+00:00
 chore(images): standardize image filenames - 2024-01-30T00:00:00+00:00
 refactor(header): extract nav component - 2024-01-31T00:00:00+00:00
 feat(hero): make CTA copy clearer - 2024-02-01T00:00:00+00:00
+docs(readme): add local dev steps - 2024-02-03T00:00:00+00:00
