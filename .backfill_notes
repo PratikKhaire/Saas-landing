@@ -11,3 +11,4 @@ style(theme): tweak color variables for contrast - 2024-02-04T00:00:00+00:00
 fix(meta): update og:description - 2024-02-05T00:00:00+00:00
 chore(deps): update eslint-config minor - 2024-02-06T00:00:00+00:00
 feat(testimonials): improved copy and author ordering - 2024-02-08T00:00:00+00:00
+fix(paths): correct import path for LogoTicker - 2024-02-09T00:00:00+00:00
