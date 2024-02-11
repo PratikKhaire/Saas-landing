@@ -2,3 +2,4 @@ chore(ci): add basic lint script to package.json - 2024-01-24T00:00:00+00:00
 fix(css): adjust mobile hero padding - 2024-01-25T00:00:00+00:00
 feat(header): improve nav focus styles - 2024-01-26T00:00:00+00:00
 docs(assets): add notes about logo attribution - 2024-01-27T00:00:00+00:00
+fix(a11y): add aria-hidden to decorative icons - 2024-01-29T00:00:00+00:00
