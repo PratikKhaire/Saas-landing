@@ -7,3 +7,4 @@ Business landing page
 - perf(images): add webp fallback for product image (2024-02-07T00:00:00+00:00)
 - fix(typo): small copy fix in Pricing.tsx (2024-02-12T00:00:00+00:00)
 - feat(product): small copy tweak for product showcase (2024-02-17T00:00:00+00:00)
+- chore(backfill): add final backfill note (2024-02-21T00:00:00+00:00)
