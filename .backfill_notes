@@ -12,3 +12,4 @@ fix(meta): update og:description - 2024-02-05T00:00:00+00:00
 chore(deps): update eslint-config minor - 2024-02-06T00:00:00+00:00
 feat(testimonials): improved copy and author ordering - 2024-02-08T00:00:00+00:00
 fix(paths): correct import path for LogoTicker - 2024-02-09T00:00:00+00:00
+docs(contributing): add PR template note - 2024-02-10T00:00:00+00:00
