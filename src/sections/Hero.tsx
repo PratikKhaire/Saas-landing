@@ -1,4 +1,6 @@
 "use client"
+
+
 import ArrowIcon from "@/assets/arrow-right.svg";
 import Image from "next/image";
 import cogImage from "@/assets/cog.png";
